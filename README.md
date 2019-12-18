@@ -5,4 +5,5 @@ A health tech company gave me a challenge:  Given a collection of ECG strip imag
 
 I have included train and test example images, the question mark labels in test images are the ones that need to be predicted; basically, the V labels alone needs to be returned and it's a binary classification task. Majority of the work was in pre-processing and arriving at the signal
 
-The model can be further advanced by using CNN's. 
+The model can be further advanced by using CNN's and adding more features specific to ECG Signal like R-R interval distance
+
